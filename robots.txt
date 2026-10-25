@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.drukarniaskrajnowski.pl/jskrajnowski/sitemap.xml
